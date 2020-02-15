@@ -1,0 +1,11 @@
+1 The Project
+2 A Class and an Object
+3 Class Methods
+4 Methods that Do work
+5 Multiple Objects
+6 Objects Interact
+7 My Editor is Confused
+8 Using Objects
+9 Private Access
+10 Type Hinting
+11 The Constructor
